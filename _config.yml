@@ -20,8 +20,8 @@
 
 title: Escape From Uni
 description: Run run run!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/escape-from-uni-website" # the subpath of your site, e.g. /blog
+url: "https://eng1-c1g11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote-theme: pages-themes/architect@v0.2.0
