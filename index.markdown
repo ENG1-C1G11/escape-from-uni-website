@@ -16,7 +16,7 @@ layout: default
 
 
 
-# Previous team Documents (Assessment 1)
+# Assessment1 (Previous team)
 
 ## Documents
 - [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
