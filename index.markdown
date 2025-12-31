@@ -15,14 +15,23 @@ layout: default
 
 ### Activity Diagrams 
 
-#### Original Activity Diagram
-![Original Activity Diagram](assets/images/diagrams/group11/activity/Original%20activity%20diagram.png)
+#### Original activity diagram ![Original activity diagram](assets/images/original-activity-diagram.png)
 
-#### Interim Activity Diagram 1
-![Interim Activity Diagram 1](assets/images/diagrams/group11/activity/Interim%20Activity%20diagram%201.png)
+#### Interim activity diagram ![Interim activity diagram](assets/images/interim-activity-diagram.png)
 
-- [Interim Class diagrams](CLASS_FOLDER_LINK)
-- [Interim Use case diagrams](USECASE_FOLDER_LINK)
+### Class diagrams 
+
+#### Original class diagram ![Original class diagram](assets/images/original-class-diagram.png)
+
+#### Interim class diagram 1 ![Interim class diagram 1](assets/images/interim-class-diagram(1).png)
+
+#### Interim class diagram 2 ![Interim class diagram 2](assets/images/interim-class-diagram(2).png)
+
+### Use Case diagrams
+
+#### Original use case diagram ![Original use case diagram](assets/images/original-use-case-diagram.png)
+
+#### Interim use case diagram ![Interim use case diagram](assets/images/interim-use-case-diagram.png)
 
 ---
 
