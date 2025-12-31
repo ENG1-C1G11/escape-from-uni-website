@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# Assessment2 (Group 11)
+# Assessment 2 (Group 11)
 
+## Documents
 - [Change Report](YOUR_LINK_HERE)
 - [Implementation](YOUR_LINK_HERE)
   - Supporting architecture document: [CRC Card](YOUR_CRC_LINK_HERE)
@@ -16,7 +17,7 @@ layout: default
 
 
 
-# Assessment1 (Previous team)
+# Previous Team
 
 ## Documents
 - [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
