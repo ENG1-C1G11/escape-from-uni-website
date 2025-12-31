@@ -45,5 +45,5 @@ layout: default
 
 
 ## Interim Versions of Architectural Diagrams (previous team)
-- [Previous team interim diagrams](previous-team-interim)
+- [Previous team interim diagrams](interim-previous)
 
