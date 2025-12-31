@@ -45,7 +45,5 @@ layout: default
 
 
 ## Interim Versions of Architectural Diagrams (previous team)
+- [Previous team interim diagrams](previous-team-interim)
 
-## First design ![First design](assets/images/designs/first design.png)
-## Middle design ![Middle design](assets/images/designs/middle design.png)
-## Final design ![Final design](assets/images/designs/final design.png)
