@@ -11,14 +11,17 @@ layout: default
 - [User Evaluation](YOUR_LINK_HERE)
 - [Continuous Integration](YOUR_LINK_HERE)
 
-### Interim diagrams (Group 11)
-- [Interim diagrams folder](GOOGLE_DRIVE_FOLDER_LINK_HERE)
+## Interim diagrams (Group 11)
+
+- [Interim Activity diagrams](ACTIVITY_FOLDER_LINK)
+- [Interim Class diagrams](CLASS_FOLDER_LINK)
+- [Interim Use case diagrams](USECASE_FOLDER_LINK)
 
 ---
 
 
 
-# Previous team Documents(Assessment 1)
+# Previous team Documents (Assessment 1)
 
 ## Documents
 - [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
