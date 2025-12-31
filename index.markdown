@@ -22,7 +22,7 @@ layout: default
 # Assessment 1 (Previous Team)
 
 ## Documents
-- [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
+- [Req1.pdf](https://docs.google.com/document/d/14WLrYiu-Kyfvmaaur34Ac2DQMg3sdHkVzIXGKpx2als)
 - [Arch1.pdf](https://docs.google.com/document/d/11xOEDABJX3mKX0NBE3FMmpLlaLgeGlKi_UH_kvWGz0U)
   - Supporting architecture document: [CRC Card](https://drive.google.com/file/d/1wHhhKS6kM6xWBjTZMQQTebHPzphnIAsM/view?usp=sharing)
 - [Plan1.pdf](https://docs.google.com/document/d/14HtEC43lXPSArmGxVsPV3zZdgpDReIoj-UL0VRDTm7k)
