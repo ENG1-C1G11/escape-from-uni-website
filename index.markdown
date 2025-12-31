@@ -13,7 +13,14 @@ layout: default
 
 ## Interim diagrams (Group 11)
 
-- [Interim Activity diagrams](ACTIVITY_FOLDER_LINK)
+### Activity Diagrams 
+
+#### Original Activity Diagram
+![Original Activity Diagram](assets/images/diagrams/group11/activity/Original%20activity%20diagram.png)
+
+#### Interim Activity Diagram 1
+![Interim Activity Diagram 1](assets/images/diagrams/group11/activity/Interim%20Activity%20diagram%201.png)
+
 - [Interim Class diagrams](CLASS_FOLDER_LINK)
 - [Interim Use case diagrams](USECASE_FOLDER_LINK)
 
