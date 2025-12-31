@@ -10,28 +10,7 @@ layout: default
 - [Testing](YOUR_LINK_HERE)
 - [User Evaluation](YOUR_LINK_HERE)
 - [Continuous Integration](YOUR_LINK_HERE)
-
-## Interim diagrams (Group 11)
-
-### Activity Diagrams 
-
-#### Original activity diagram ![Original activity diagram](assets/images/original-activity-diagram.png)
-
-#### Interim activity diagram ![Interim activity diagram](assets/images/interim-activity-diagram.png)
-
-### Class diagrams 
-
-#### Original class diagram ![Original class diagram](assets/images/original-class-diagram.png)
-
-#### Interim class diagram 1 ![Interim class diagram 1](assets/images/interim-class-diagram(1).png)
-
-#### Interim class diagram 2 ![Interim class diagram 2](assets/images/interim-class-diagram(2).png)
-
-### Use Case diagrams
-
-#### Original use case diagram ![Original use case diagram](assets/images/original-use-case-diagram.png)
-
-#### Interim use case diagram ![Interim use case diagram](assets/images/interim-use-case-diagram.png)
+- [Interim Diagrams (Group 11)](interim-diagrams)
 
 ---
 
