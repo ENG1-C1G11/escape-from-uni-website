@@ -5,7 +5,7 @@ title: Interim Diagrams (Group 11)
 
 [← Back to Home](./)
 
-# # Interim Diagrams (Group <sup>11</sup>)
+# # Interim Diagrams(Group 11)
 
 ## Activity Diagrams
 
