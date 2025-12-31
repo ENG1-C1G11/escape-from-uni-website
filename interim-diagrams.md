@@ -3,6 +3,8 @@ layout: default
 title: Interim Diagrams (Group 11)
 ---
 
+[← Back to Home](./)
+
 # Interim Diagrams (Group 11)
 
 ## Activity Diagrams
