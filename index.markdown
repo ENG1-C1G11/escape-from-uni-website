@@ -7,12 +7,13 @@ layout: default
 ## Documents
 - [Change Report](YOUR_LINK_HERE)
 - [Implementation](YOUR_LINK_HERE)
-  - Supporting architecture document: [CRC Card](YOUR_CRC_LINK_HERE)
 - [Testing](YOUR_LINK_HERE)
 - [User Evaluation](YOUR_LINK_HERE)
 - [Continuous Integration](YOUR_LINK_HERE)
-- [Interim Diagrams (Group 11)](interim-diagrams)
 
+## Supporting materials
+- [CRC Card](YOUR_CRC_LINK_HERE)
+- [Interim Diagrams (Group 11)](interim-diagrams)
 ---
 
 
