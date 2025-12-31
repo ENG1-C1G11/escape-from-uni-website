@@ -2,16 +2,35 @@
 layout: default
 ---
 
-# Documents
+# Assessment2 (Group 11)
 
-## [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
-## [Arch1.pdf](https://docs.google.com/document/d/11xOEDABJX3mKX0NBE3FMmpLlaLgeGlKi_UH_kvWGz0U)
-### Supporting architecture document: [CRC Card](https://drive.google.com/file/d/1wHhhKS6kM6xWBjTZMQQTebHPzphnIAsM/view?usp=sharing)
-## [Plan1.pdf](https://docs.google.com/document/d/14HtEC43lXPSArmGxVsPV3zZdgpDReIoj-UL0VRDTm7k)
-## [Risk1.pdf](https://docs.google.com/document/d/1VeXGTjoGHkr_3nq36DAtoAr0F2URR5sL55XiPgJvNSo)
-## [Impl1.pdf](https://docs.google.com/document/d/1CWU3vWAC9SIn7TffVWqK80HflwP4JdWJY5-EorGJHCE)
+- [Change Report](YOUR_LINK_HERE)
+- [Implementation](YOUR_LINK_HERE)
+  - Supporting architecture document: [CRC Card](YOUR_CRC_LINK_HERE)
+- [Testing](YOUR_LINK_HERE)
+- [User Evaluation](YOUR_LINK_HERE)
+- [Continuous Integration](YOUR_LINK_HERE)
 
-# Weekly plan
+### Interim diagrams (Group 11)
+- [Interim diagrams folder](GOOGLE_DRIVE_FOLDER_LINK_HERE)
+
+---
+
+
+
+# Previous team Documents(Assessment 1)
+
+## Documents
+- [Req1.pdf](https://docs.google.com/document/d/1bxOIGIrXyXTpwaCIAnqtrXOml0hehnkAKW8EJ7yHmwQ/edit?usp=sharing)
+- [Arch1.pdf](https://docs.google.com/document/d/11xOEDABJX3mKX0NBE3FMmpLlaLgeGlKi_UH_kvWGz0U)
+  - Supporting architecture document: [CRC Card](https://drive.google.com/file/d/1wHhhKS6kM6xWBjTZMQQTebHPzphnIAsM/view?usp=sharing)
+- [Plan1.pdf](https://docs.google.com/document/d/14HtEC43lXPSArmGxVsPV3zZdgpDReIoj-UL0VRDTm7k)
+- [Risk1.pdf](https://docs.google.com/document/d/1VeXGTjoGHkr_3nq36DAtoAr0F2URR5sL55XiPgJvNSo)
+- [Impl1.pdf](https://docs.google.com/document/d/1CWU3vWAC9SIn7TffVWqK80HflwP4JdWJY5-EorGJHCE)
+
+---
+
+## Weekly plan (previous team)
 
 ## Week 1
 ![Week 1](assets/images/plan/week1.png)
@@ -26,7 +45,8 @@ layout: default
 ## Week 6
 ![Week 6](assets/images/plan/week6.png)
 
-# Interim Versions of Architectural Diagrams
+
+## Interim Versions of Architectural Diagrams (previous team)
 
 ## First design ![First design](assets/images/designs/first design.png)
 ## Middle design ![Middle design](assets/images/designs/middle design.png)
