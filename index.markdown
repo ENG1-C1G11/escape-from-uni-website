@@ -38,3 +38,7 @@ layout: default
 ## Interim Versions of Architectural Diagrams (previous team)
 - [Previous team interim diagrams](interim-previous)
 
+### Previous Project Repository (Assessment 1)
+
+Previous team GitHub repository:
+https://github.com/escape-from-uni/escape-from-uni
