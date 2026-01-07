@@ -12,7 +12,7 @@ layout: default
 - [Continuous Integration](YOUR_LINK_HERE)
 
 ## Supporting materials
-- [CRC Card](YOUR_CRC_LINK_HERE)
+- [CRC Card](https://drive.google.com/file/d/1PTHPTg96zhy0T0zOJuOzXgRjyvoPQAWu/view?usp=sharing)
 - [Interim Diagrams (Group 11)](interim-diagrams)
   
 ---
