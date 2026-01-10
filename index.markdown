@@ -19,8 +19,6 @@ layout: default
 - [Updated Risk1.pdf](Risk1)
 - [CRC Card Table](/escape-from-uni-website/assets/docs/assessment/crc_cards.pdf)
 - [Interim Diagrams (Group 11)](interim-diagrams)
-  
----
 
 ## Testing materials
 - [Coverage report](/escape-from-uni-website/assets/testing/coverage.html)
