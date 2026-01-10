@@ -74,7 +74,7 @@ title: Interim Diagrams (Group 11)
 ![Interim use case diagram – 10 January 2026](/escape-from-uni-website/assets/images/useCaseDiagram_2026-01-10.png)
 
 ### Interim use case diagram (11 January 2026)
-![Interim use case diagram – 10 January 2026](/escape-from-uni-website/assets/images/usecasediagram.png)
+![Interim use case diagram – 11 January 2026](/escape-from-uni-website/assets/images/usecasediagram.png)
 
 
 
