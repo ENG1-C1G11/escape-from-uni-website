@@ -23,9 +23,10 @@ layout: default
 ---
 
 ## Testing materials
-- [Automated test results](/escape-from-uni-website/testing/test-results/)
-- [Coverage report](/escape-from-uni-website/testing/coverage/)
-- [Manual test cases](/escape-from-uni-website/testing/manual-tests/)
+- [Coverage report](/escape-from-uni-website/assets/testing/coverage.html)
+- [Automated Test results](/escape-from-uni-website/assets/testing/test-results.txt)
+- [Manual test cases](/escape-from-uni-website/assets/testing/manual-tests.pdf)
+
 
 ---
 
