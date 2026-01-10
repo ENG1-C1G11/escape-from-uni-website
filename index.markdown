@@ -22,7 +22,12 @@ layout: default
   
 ---
 
+## Testing materials
+- [Automated test results](/escape-from-uni-website/testing/test-results/)
+- [Coverage report](/escape-from-uni-website/testing/coverage/)
+- [Manual test cases](/escape-from-uni-website/testing/manual-tests/)
 
+---
 
 # Assessment 1 (Previous Team)
 
