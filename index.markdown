@@ -17,7 +17,7 @@ layout: default
 - [Updated Arch1.pdf](Arch1)
 - [Updated Plan1.pdf](Plan1)
 - [Updated Risk1.pdf](Risk1)
-- [CRC Card](https://drive.google.com/file/d/1PTHPTg96zhy0T0zOJuOzXgRjyvoPQAWu/view?usp=sharing)
+- [CRC Card Table](https://drive.google.com/file/d/1ysyIP5pwR05t-BrCwhOegvaCE2-Qccv2/view?usp=drive_link)
 - [Interim Diagrams (Group 11)](interim-diagrams)
   
 ---
