@@ -5,11 +5,11 @@ layout: default
 # Assessment 2 (Group 11)
 
 ## Documents
-- [Change2.pdf](/escape-from-uni-website/assets/docs/assessment/change2.pdf)
-- [Impl2.pdf](YOUR_LINK_HERE)
-- [Test2.pdf](YOUR_LINK_HERE)
-- [Eval2.pdf](/escape-from-uni-website/assets/docs/assessment/eval2.pdf)
-- [CI2.pdf](YOUR_LINK_HERE)
+- [Change report](/escape-from-uni-website/assets/docs/assessment/change2.pdf)
+- [Implementation](YOUR_LINK_HERE)
+- [Testing](YOUR_LINK_HERE)
+- [User Evaluation](/escape-from-uni-website/assets/docs/assessment/eval2.pdf)
+- [Continuous Integration](YOUR_LINK_HERE)
 
 ## Supporting materials
 
