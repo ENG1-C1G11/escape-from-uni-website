@@ -9,7 +9,7 @@ layout: default
 - [Implementation](/escape-from-uni-website/assets/docs/assessment/impl2.pdf)
 - [Testing](YOUR_LINK_HERE)
 - [User Evaluation](/escape-from-uni-website/assets/docs/assessment/eval2.pdf)
-- [Continuous Integration](YOUR_LINK_HERE)
+- [Continuous Integration](/escape-from-uni-website/assets/docs/assessment/ci2.pdf)
 
 ## Supporting materials
 
