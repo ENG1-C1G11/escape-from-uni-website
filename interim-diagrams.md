@@ -21,7 +21,7 @@ title: Interim Diagrams (Group 11)
 ### Interim activity diagram (10 January 2026)
 ![Interim activity diagram – 10 January 2026](/escape-from-uni-website/assets/images/ActivityDiagram_2026-01-10.png)
 
-### Interim activity diagram (11 January 2026)
+### Final activity diagram (Post King Bob - 11 January 2026)
 ![Interim ActivityDiagramPostKingBob – 11 January 2026](/escape-from-uni-website/assets/images/activitydiagrampostkingbob.png)
 
 
