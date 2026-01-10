@@ -5,7 +5,7 @@ layout: default
 # Assessment 2 (Group 11)
 
 ## Documents
-- [Change Report](/escape-from-uni-website/assets/docs/assessment/Change2.pdf)
+- [Change Report](/escape-from-uni-website/assets/docs/assessment/change2.pdf)
 - [Implementation](YOUR_LINK_HERE)
 - [Testing](YOUR_LINK_HERE)
 - [User Evaluation](YOUR_LINK_HERE)
