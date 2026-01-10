@@ -17,7 +17,7 @@ layout: default
 - [Updated Arch1.pdf](Arch1)
 - [Updated Plan1.pdf](Plan1)
 - [Updated Risk1.pdf](Risk1)
-- [CRC Card Table](/escape-from-uni-website/assets/docs/assessment/CRC_Cards_11_01_2026.pdf)
+- [CRC Card Table](/escape-from-uni-website/assets/docs/assessment/CRC_Cards.pdf)
 - [Interim Diagrams (Group 11)](interim-diagrams)
   
 ---
