@@ -18,6 +18,10 @@ title: Interim Diagrams (Group 11)
 ### Interim activity diagram (6 January 2026)
 ![Interim activity diagram – 6 January 2025](/escape-from-uni-website/assets/images/interim-activity-diagram-2025-01-06.png)
 
+### Interim activity diagram (10 January 2026)
+![Interim activity diagram – 10 January 2026](/escape-from-uni-website/assets/images/ActivityDiagram_2026-01-10.png)
+
+
 
 ## Class Diagrams
 
@@ -33,6 +37,9 @@ title: Interim Diagrams (Group 11)
 ### Interim class diagram (6 January 2026)
 ![Interim class diagram – 6 January 2025](/escape-from-uni-website/assets/images/interim-class-diagram-2025-01-06.png)
 
+### Interim class diagram (10 January 2026)
+![Interim class diagram – 10 January 2026](/escape-from-uni-website/assets/images/classDiagram_2026-01-10.png)
+
 
 ## Use Case Diagrams
 
@@ -44,4 +51,8 @@ title: Interim Diagrams (Group 11)
 
 ### Interim use case diagram (6 January 2026)
 ![Interim use case diagram – 6 January 2025](/escape-from-uni-website/assets/images/interim-use-case-diagram-2025-01-06.png)
+
+### Interim use case diagram (10 January 2026)
+![Interim use case diagram – 10 January 2026](/escape-from-uni-website/assets/images/useCaseDiagram_2026-01-10.png)
+
 
