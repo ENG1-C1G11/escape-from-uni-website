@@ -16,7 +16,7 @@ layout: default
 - [Updated Requirements (Req1)](LINK HERE)
 - [Updated Architecture (Arch1)](LINK HERE)
 - [Updated Method selection and Planning (Plan1)](LINK HERE)
-- [Updated Risk Assessment and mitigation (Risk1)](LINK HERE)
+- [Updated Risk assessment and mitigation (Risk1)](LINK HERE)
 - [Updated Implementation (Impl1)](LINK HERE)
 - [CRC Card](https://drive.google.com/file/d/1PTHPTg96zhy0T0zOJuOzXgRjyvoPQAWu/view?usp=sharing)
 - [Interim Diagrams (Group 11)](interim-diagrams)
