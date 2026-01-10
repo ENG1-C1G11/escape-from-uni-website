@@ -5,7 +5,7 @@ layout: default
 # Assessment 2 (Group 11)
 
 ## Documents
-- [Change2.pdf]({{"/assets/docs/assessment/change2.pdf" | relative_url}})
+- [Change2.pdf]({{ "/assets/docs/assessment/change2.pdf" | relative_url }})
 - [Impl2.pdf](YOUR_LINK_HERE)
 - [Test2.pdf](YOUR_LINK_HERE)
 - [Eval2.pdf](YOUR_LINK_HERE)
