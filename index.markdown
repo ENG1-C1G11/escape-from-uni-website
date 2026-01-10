@@ -13,7 +13,7 @@ layout: default
 
 ## Supporting materials
 
-- [Updated Req1.pdf](Req1)
+- [Updated Req1.pdf](/escape-from-uni-website/assets/docs/assessment/updated_req1.pdf)
 - [Updated Arch1.pdf](/escape-from-uni-website/assets/docs/assessment/updated_arch1.pdf)
 - [Updated Plan1.pdf](/escape-from-uni-website/assets/docs/assessment/updated_plan1.pdf)
 - [Updated Risk1.pdf](/escape-from-uni-website/assets/docs/assessment/updated_risk1.pdf)
