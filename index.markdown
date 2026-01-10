@@ -13,11 +13,11 @@ layout: default
 
 ## Supporting materials
 
-- [Updated Requirements](Req1)
-- [Updated Architecture](Arch1)
-- [Updated Method selection and Planning](Plan1)
-- [Updated Risk assessment and mitigation](Risk1)
-- [Updated Implementation](Impl1)
+- [Updated Req1.pdf](Req1)
+- [Updated Arch1.pdf](Arch1)
+- [Updated Plan1.pdf](Plan1)
+- [Updated Risk1.pdf](Risk1)
+- [Updated Impl1.pdf](Impl1)
 - [CRC Card](https://drive.google.com/file/d/1PTHPTg96zhy0T0zOJuOzXgRjyvoPQAWu/view?usp=sharing)
 - [Interim Diagrams (Group 11)](interim-diagrams)
   
