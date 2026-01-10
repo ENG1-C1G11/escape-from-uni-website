@@ -14,7 +14,7 @@ layout: default
 ## Supporting materials
 
 - [Updated Req1.pdf](Req1)
-- [Updated Arch1.pdf](Arch1)
+- [Updated Arch1.pdf](/escape-from-uni-website/assets/docs/assessment/updated_arch1.pdf)
 - [Updated Plan1.pdf](Plan1)
 - [Updated Risk1.pdf](Risk1)
 - [CRC Card Table](/escape-from-uni-website/assets/docs/assessment/crc_cards.pdf)
